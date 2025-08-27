@@ -2,6 +2,7 @@
 <opml version="2.0">
   <head><title>Feeds export</title></head>
   <body>
+    <outline text="doppiozero-editoriali" type="rss" xmlUrl="https://raw.githubusercontent.com/trank1955/my-feeds/refs/heads/main/output_feeds/doppiozero-editoriali.xml"/>
     <outline text="doppiozero-filosofia" type="rss" xmlUrl="https://raw.githubusercontent.com/trank1955/my-feeds/refs/heads/main/output_feeds/doppiozero-filosofia.xml"/>
     <outline text="doppiozero-letteratura" type="rss" xmlUrl="https://raw.githubusercontent.com/trank1955/my-feeds/refs/heads/main/output_feeds/doppiozero-letteratura.xml"/>
   </body>
