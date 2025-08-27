@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><title>Feeds export</title></head>
+  <body>
+    <outline text="doppiozero-letteratura" type="rss" xmlUrl="https://raw.githubusercontent.com/trank1955/my-feeds/refs/heads/main/output_feeds/doppiozero-letteratura.xml"/>
+  </body>
+</opml>
